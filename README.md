@@ -1,0 +1,5 @@
+- [ ] Write the code.
+- [ ] Fix the bugs.
+- [ ] Test the requirements.
+- [ ] Configure the stuff.
+- [ ] Run the app.
